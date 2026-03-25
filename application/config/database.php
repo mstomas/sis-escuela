@@ -50,8 +50,8 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
-$db['default']['password'] = 'samuel1803';
-$db['default']['database'] = 'escuela_tecun';
+$db['default']['password'] = '';
+$db['default']['database'] = 'sis_escuela';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
